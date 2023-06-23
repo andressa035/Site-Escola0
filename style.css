@@ -1,9 +1,9 @@
-* {
+ header {
   margin: 0 16px;
   padding: 24px 0;
 }
-.cabecalh{
-background-color: #383d58;
+.cabecalho{
+background-color: #121d58;
 color: white;
 display:flex;
 justify-content: space-around;
