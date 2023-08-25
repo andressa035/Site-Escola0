@@ -1,19 +1,15 @@
- .cabecalho{
+ .cabecalho {
   margin: 0 16px;
   padding: 24px 0;
 }
-.cabecalho{
-background-color: #121d58;
-color: white;
-display:flex;
+.cabecalho {
 justify-content: space-around;
-padding: 24px 0;
+padding:24px 0;
 font-size: 24px;
-}
+display:inline-block;
+margin: 0 16px;}
 
-{display:inline-block}
-margin: 0 16px;
+.cabecalho-imagem { width: 20%;}
 
-.cabecalho-imagem{width 20%;} 
-body{background-color: lightslategrey;}
-body{background-color: white;}
+.body {
+background-color: lightslategrey;}
